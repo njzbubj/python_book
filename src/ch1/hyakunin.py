@@ -3,6 +3,7 @@
 Created on 2018/02/23
 
 @author: miyazawataishi
+can edit from Github GUI
 '''
 import sys
 import urllib.request as req
