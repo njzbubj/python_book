@@ -7,7 +7,7 @@ Created on 2018/03/08
 # pythonのマニュアルを再帰的にDL
 from bs4 import BeautifulSoup
 from urllib.request import urlretrieve
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 from os import makedirs
 import os.path, time, re
 
